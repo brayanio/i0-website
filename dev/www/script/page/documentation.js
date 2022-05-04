@@ -10,11 +10,11 @@
                         <h1 class="card-title">Documentation</h1>
                     </div>
                     <div class="card-body">
-                        <div class="accordion" id="accordion">
+                        <div class="accordion api-accordion" id="accordion">
                             <div class="accordion-item">
                                 <div class="accordion-header">
                                     <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
-                                        Navigation
+                                        i0
                                     </button>
                                 </div>
                                 <div class="accordion-collapse collapse show" id="collapseOne" i0="accordian" data-bs-parent="#accordion">

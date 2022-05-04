@@ -1,6 +1,6 @@
 'code',
 `
-    <a i0="link" class="pop-container">
+    <a i0="link" class="text-success text-decoration-none" href="#download">
        <code class="cmd" i0="code"></code>
     </a>
 `,

@@ -2,7 +2,10 @@
 `
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
     <div class="nav-wrapper container">
-        <a href="#" class="navbar-brand tls-font">i0</a>
+        <div>
+            <a href="#" class="navbar-brand tls-font"><img src="./asset/tls.PNG" width="32" height="32"></a>
+            <a href="#" class="navbar-brand tls-font"><img src="./asset/logo.PNG" width="32" height="32"></a>
+        </div>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
