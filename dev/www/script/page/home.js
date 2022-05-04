@@ -7,7 +7,7 @@
             <div class="col-md-auto col-lg-auto col-md-6 col-lg-4">
                 <section class="card">
                     <div class="card-header d-flex justify-content-center">
-                        <img src="./asset/logo.png" width="128" height="128">
+                        <img src="./asset/logo.PNG" width="128" height="128">
                     </div>
                     <div class="card-body">
                         <h1 class="card-title tls-font">i0</h1>
