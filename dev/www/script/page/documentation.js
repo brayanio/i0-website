@@ -4,10 +4,10 @@
     <br>
     <div class="container">
         <div class="row">
-            <div class="col-md-4">
+            <div class="col-md-5 col-lg-3">
                 <div class="card doc-nav overflow-auto" i0="sideNav">
                     <div class="card-header">
-                        <h1 class="card-title">Documentation</h1>
+                        <h1 class="card-title">API</h1>
                     </div>
                     <div class="card-body">
                         <div class="accordion api-accordion" id="accordion">
@@ -40,7 +40,7 @@
                 </div>
                 <br>
             </div>
-            <div i0="cards" class="d-grid gap-3 col-md-8"></div>
+            <div i0="cards" class="d-grid gap-3 col-md-7 col-lg-9"></div>
             <br>
         </div>
         <br>
